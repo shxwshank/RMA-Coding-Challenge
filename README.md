@@ -1,6 +1,7 @@
-# fetch-from-pi
+# fetch-from-api
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the coding challenge completed by Shashank Singh 2020120.
+The following steps can help one download and run the code on their repective devices.
 
 ## Recommended IDE Setup
 
